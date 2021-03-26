@@ -14,3 +14,5 @@ Here is an example of the input format:
 **Y2k.txt -s 4 -t 10000 -ud**
 
 This means I am looking for the estimated concentration of subgraph in size 4 for undirected graph Y2k.txt.
+
+For estimated Z-score, it will need to be compared with the concentration of subgraphs in the original graphs. Such techniques could be found on : https://bioresearch.css.uwb.edu/biores/nemo/
